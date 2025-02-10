@@ -78,7 +78,7 @@ Here's what the application looks like in action:
 
 1. Clone the repository
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/ragibmondal/web-chat ]
 cd web-chat
 ```
 
